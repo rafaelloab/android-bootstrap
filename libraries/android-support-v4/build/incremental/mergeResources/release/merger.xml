@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/rafaello/desenvolvimento/github/android-bootstrap/libraries/android-support-v4/res" />
+        <source path="/home/rafaello/desenvolvimento/github/android-bootstrap/libraries/android-support-v4/build/res/rs/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/rafaello/desenvolvimento/github/android-bootstrap/libraries/android-support-v4/src/release/res" />
+    </dataSet>
+
+</merger>
