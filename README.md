@@ -6,3 +6,7 @@ A base android project already configured with gradle, travis and android-suppor
 ##notes
 
 Remember to add application tag in Androidmanifext.xml of each library project.
+
+
+TODO
+Update android-support dependency.
